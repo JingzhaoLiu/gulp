@@ -15,5 +15,6 @@
 
 ## 本文是在以下文档和互联网搜索信息的基础上修改而成
 
-[gulp入门指南](https://github.com/nimojs/gulp-book)
-[Gulp构建前端自动化工作流之：常用插件介绍及使用](http://www.bluesdream.com/blog/gulp-frontend-automation-plugins-instructions.html)
+- [gulp入门指南](https://github.com/nimojs/gulp-book)
+
+- [Gulp构建前端自动化工作流之：常用插件介绍及使用](http://www.bluesdream.com/blog/gulp-frontend-automation-plugins-instructions.html)
